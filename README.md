@@ -7,4 +7,4 @@ The code is written from scratch without any skeleton code. Project was complete
 
 ---
 
-Implements the git commands init, add, commit, rm, log, global-log, find, status, checkout, branch, rm-branch, reset, merge, add-remote, rm-remote, push, fetch, and pull.
+Implements the git commands `init`, `add`, `commit`, `rm`, `log`, `global-log`, `find`, `status`, `checkout`, `branch`, `rm-branch`, `reset`, `merge`, `add-remote`, `rm-remote`, `push`, `fetch`, and `pull`.
